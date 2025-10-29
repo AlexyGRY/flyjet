@@ -1,17 +1,1 @@
-<?php
-
-declare(strict_types=1);
-
-
-class aéroport
-{
-
-    /**
-     * Default constructor
-     */
-    public function __construct()
-    {
-        // ...
-    }
-
-}
+(juste un bug qui a dupliquer aeroport en trop)
